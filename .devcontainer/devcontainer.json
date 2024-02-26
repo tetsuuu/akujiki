@@ -1,0 +1,9 @@
+{
+	"name": "Python Environment",
+	"dockerFile": "Dockerfile",
+	"customizations": {
+		"vscode": {
+			"extensions": []
+		}
+	}
+}
